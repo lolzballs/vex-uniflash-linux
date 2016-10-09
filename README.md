@@ -1,4 +1,4 @@
-Very crude bodge for uniflash to work on Linux, using usb4java
+Very crude bodge for uniflash Vex Cortex direct tether to work on Linux, using usb4java
 
 Probably violated some license by reverse engineering some stuff
 
