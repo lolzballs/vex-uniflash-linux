@@ -1,4 +1,4 @@
-Very crude bodge for uniflash Vex Cortex direct tether to work on Linux, using usb4java
+Very crude bodge for uniflash Vex Cortex direct tether to work on Linux, only Linux, using usb4java
 
 Probably violated some license by reverse engineering some stuff
 
@@ -13,4 +13,4 @@ Created files:
 org.uniflash.LinuxDriver
 
 To use:
-sudo [java command and class path stuff] org.uniflash.Main vex [your bin file] -P[vid:pid]
+`sudo java -jar uniflash.jar vex [your bin file] -P[vid:pid]`
