@@ -8,14 +8,11 @@ Don't sue me
 
 Also, no warranty on any of this. If it bricks your Vex cortex or your computer or your house, I'm not responsible.
 
-## Modified files:
-
-- `org.uniflash.SerialPortIO`
-
-## Created files:
-
-- `org.uniflash.LinuxDriver`
-
 ## Usage:
 
 `sudo java -jar uniflash.jar vex [your bin file] -P[vid:pid]`
+
+## Changes:
+
+- Modified: `org.uniflash.SerialPortIO`
+- Created: `org.uniflash.LinuxDriver`
